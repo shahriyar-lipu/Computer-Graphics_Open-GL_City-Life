@@ -176,7 +176,7 @@ All artwork in CityLife is drawn procedurally in code; no third-party image, aud
 ![Lakeside Park](screenshots/scenario3.png)
 
 ### Scenario 4: Riverfront Market Life
-![Riverfront Market Life](screenshots/market.png)
+![Riverfront Market Life](screenshots/scenario4.png)
 
 
 
