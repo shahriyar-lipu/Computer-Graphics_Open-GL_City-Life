@@ -163,6 +163,23 @@ We would like to thank:
 
 All artwork in CityLife is drawn procedurally in code; no third-party image, audio or model assets are used.
 
+
+## Screenshots
+
+### Scenario 1: Dynamic Coastal City
+![Dynamic Coastal City](screenshots/scenario1.png)
+
+### Scenario 2: Downtown Neon District
+![Downtown Neon District](screenshots/scenario2.png)
+
+### Scenario 3: Lakeside Park
+![Lakeside Park](screenshots/scenario3.png)
+
+### Scenario 4: Riverfront Market Life
+![Riverfront Market Life](screenshots/market.png)
+
+
+
 ## License
 
 This project is released under the [MIT License](LICENSE). Copyright (c) 2026 Shahriyar Lipu, Sabit Hassan, Mehedi Hassan, and Ashab Mahmud Tousif.
